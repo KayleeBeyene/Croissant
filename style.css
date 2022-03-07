@@ -1,0 +1,22 @@
+body {
+    background-color: blanchedalmond;
+}
+h1 {
+    margin-top: 30px;
+    text-align: center;
+    color: chocolate;
+}
+p {
+    text-align: center;
+}
+.nav-links {
+    text-align: center;
+    
+}
+.nav-button {
+    color: darkkhaki;
+}
+.croissant-photo {
+    max-width: 500px;
+    margin: 0 auto;
+}
